@@ -1,4 +1,13 @@
 
+## Natural Language Processing
+
+Repositorio con soluciones con a los desafios de la materia Procesamiento de Lenguaje Natural de la [Especialización en Inteligencia Artificial, UBA.](https://lse.posgrados.fi.uba.ar/posgrados/especializaciones/inteligencia-artificial)
+
+Alejandra Del Porto
+alejandradelporto@gmail.com
+
+---
+
 ### [Resolución del desafío 1: Vectorización de documentos y medición de similaridad](https://github.com/aledp/ceia_PNL_aledp/blob/ae185b76984d3a152eb3f0a46224aedd4881e623/Resolucion_Desafio_1_AlejandraDelPorto.ipynb)
 
 ![image](https://github.com/aledp/ceia_PNL_aledp/assets/19275069/b82dd865-3c27-4168-af4b-2b39c4877440)
