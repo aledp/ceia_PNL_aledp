@@ -1,7 +1,7 @@
 
 ## Natural Language Processing
 
-Repositorio con soluciones con a los desafios de la materia Procesamiento de Lenguaje Natural de la [Especialización en Inteligencia Artificial, UBA.](https://lse.posgrados.fi.uba.ar/posgrados/especializaciones/inteligencia-artificial)
+Repositorio con soluciones a los desafios propuestos en la materia Procesamiento de Lenguaje Natural de la [Especialización en Inteligencia Artificial, UBA.](https://lse.posgrados.fi.uba.ar/posgrados/especializaciones/inteligencia-artificial)
 
 Alejandra Del Porto
 alejandradelporto@gmail.com
