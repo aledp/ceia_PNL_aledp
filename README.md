@@ -39,6 +39,6 @@ El BotQA utiliza un dataset de conversaciones en inglés obtenido del challenge 
 
 ### [Resolución del desafío 5: Sentiment analysis](https://github.com/aledp/ceia_PNL_aledp/blob/main/Resolucion_Desafio_5_AlejandraDelPorto.ipynb)
 
-![image](https://github.com/aledp/ceia_PNL_aledp/assets/19275069/958ab040-da6a-4830-9dfa-51f713f4ef16)
+![image](https://github.com/aledp/ceia_PNL_aledp/assets/19275069/ba6ce4b6-cc9b-47f5-b2d7-671d40aad818)
 
 Se abordó la construcción de un modelo para el análisis de sentimientos utilizando BERT como codificador para un conjunto de datos de reseñas de aplicaciones. Se utilizó TensorFlow, Transformers (para acceder a modelos pre-entrenados de BERT y realizar el procesamiento del lenguaje natural), se entrenaron diversos modelos y se evaluó su desempeño utilizando el F1-score en un conjunto de datos de prueba.
